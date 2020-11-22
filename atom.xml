@@ -6,7 +6,7 @@
   <link href="https://github.com/workingljq/workingljq.git/atom.xml" rel="self"/>
   
   <link href="https://github.com/workingljq/workingljq.git/"/>
-  <updated>2020-11-22T02:17:02.172Z</updated>
+  <updated>2020-11-22T02:27:11.836Z</updated>
   <id>https://github.com/workingljq/workingljq.git/</id>
   
   <author>
@@ -17,33 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>photo</title>
-    <link href="https://github.com/workingljq/workingljq.git/2020/11/22/photo/"/>
-    <id>https://github.com/workingljq/workingljq.git/2020/11/22/photo/</id>
-    <published>2020-11-22T02:15:16.000Z</published>
-    <updated>2020-11-22T02:17:02.172Z</updated>
+    <title>测试</title>
+    <link href="https://github.com/workingljq/workingljq.git/2020/11/22/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://github.com/workingljq/workingljq.git/2020/11/22/%E6%B5%8B%E8%AF%95/</id>
+    <published>2020-11-22T02:23:22.000Z</published>
+    <updated>2020-11-22T02:27:11.836Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="IMG_0339.JPG" alt="加载中"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/workingljq/workingljq.git/2020/11/22/%E6%B5%8B%E8%AF%95/IMG_0339.JPG" alt="加载中"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;IMG_0339.JPG&quot; alt=&quot;加载中&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/workingljq/workingljq.git/2020/11/22/%E6%B5%8B%E8%AF%95/IMG_0339.JPG&quot; alt=&quot;加载中&quot;&gt;&lt;/p&gt;
 </summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>图片测试</title>
-    <link href="https://github.com/workingljq/workingljq.git/2020/11/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
-    <id>https://github.com/workingljq/workingljq.git/2020/11/22/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
-    <published>2020-11-22T02:08:56.000Z</published>
-    <updated>2020-11-22T02:08:56.610Z</updated>
-    
     
     
     
