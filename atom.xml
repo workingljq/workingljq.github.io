@@ -3,11 +3,11 @@
   <title>栖息在梦里</title>
   
   
-  <link href="https://github.com/workingljq/workingljq.github.io/atom.xml" rel="self"/>
+  <link href="https://workingljq.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/workingljq/workingljq.github.io/"/>
+  <link href="https://workingljq.github.io/"/>
   <updated>2020-11-29T02:14:43.437Z</updated>
-  <id>https://github.com/workingljq/workingljq.github.io/</id>
+  <id>https://workingljq.github.io/</id>
   
   <author>
     <name>workingljq</name>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>ceshi</title>
-    <link href="https://github.com/workingljq/workingljq.github.io/2020/11/22/ceshi/"/>
-    <id>https://github.com/workingljq/workingljq.github.io/2020/11/22/ceshi/</id>
+    <link href="https://workingljq.github.io/2020/11/22/ceshi/"/>
+    <id>https://workingljq.github.io/2020/11/22/ceshi/</id>
     <published>2020-11-22T02:41:55.000Z</published>
     <updated>2020-11-29T02:14:43.437Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/workingljq/workingljq.github.io/2020/11/22/ceshi/1.jpg" alt="这是一张图片"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2020/11/22/ceshi/1.jpg" alt="这是一张图片"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/workingljq/workingljq.github.io/2020/11/22/ceshi/1.jpg&quot; alt=&quot;这是一张图片&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2020/11/22/ceshi/1.jpg&quot; alt=&quot;这是一张图片&quot;&gt;&lt;/p&gt;
 </summary>
       
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/workingljq/workingljq.github.io/2020/11/21/hello-world/"/>
-    <id>https://github.com/workingljq/workingljq.github.io/2020/11/21/hello-world/</id>
+    <link href="https://workingljq.github.io/2020/11/21/hello-world/"/>
+    <id>https://workingljq.github.io/2020/11/21/hello-world/</id>
     <published>2020-11-21T10:54:00.271Z</published>
     <updated>2020-11-21T10:54:00.272Z</updated>
     

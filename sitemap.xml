@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/workingljq/workingljq.github.io/2020/11/22/ceshi/</loc>
+    <loc>https://workingljq.github.io/2020/11/22/ceshi/</loc>
     
     <lastmod>2020-11-29</lastmod>
     
   </url>
   
   <url>
-    <loc>https://github.com/workingljq/workingljq.github.io/2020/11/21/hello-world/</loc>
+    <loc>https://workingljq.github.io/2020/11/21/hello-world/</loc>
     
     <lastmod>2020-11-21</lastmod>
     
@@ -17,8 +17,8 @@
   
 
   <url>
-    <loc>https://github.com/workingljq/workingljq.github.io</loc>
-    <lastmod>2021-02-06</lastmod>
+    <loc>https://workingljq.github.io/</loc>
+    <lastmod>2021-02-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
